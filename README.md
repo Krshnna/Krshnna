@@ -1,5 +1,5 @@
 
-<img align="center" alt="coding" width="1000" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"  height="500" width="500">
+<img align="center" alt="coding" width="1000" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif"  height="500" width="500">
 
 <h1 align="center">Hi 👋, I'm Krishna Kapoor</h1>
 <h3 align="center">Passionate problem-solver with a robust background in data structures, programming, and backend web development. Eager to contribute to impactful projects, tackling real-world challenges with a focus on creating innovative solutions.</h3>
@@ -13,7 +13,7 @@
 - 💬 Proficient in **Backend development, Data structures and Algorithms, C++ and Machine Learning**
 
 - 📫 How to reach me **krishnakapoor748@gmail.com**
-- Resume Link :- https://drive.google.com/file/d/1Md16U1isu94V5YWnYVshzFV5vLrZ9VMR/view?usp=sharing
+- Resume Link :- https://drive.google.com/file/d/1FO1p3XuKScnILhdibTWNIwWlZcf7gUGd/view?usp=drive_link
 
 
 
